@@ -11,11 +11,11 @@ Learning is the process of discovering patterns that shape intelligence.
 
 My long-term vision is to build an organization focused on research and innovation—something that contributes meaningfully to the future of AI and space technologies, inspired by DeepMind and SpaceX.
 
-I am still exploring, learning, and building.
+I am still exploring, learning, and building.😁
 
 ---
 
-## Current Interests
+## Current Interests 🎯
 
 * Artificial Intelligence & Machine Learning
 * Deep Learning and Neural Networks
@@ -24,8 +24,7 @@ I am still exploring, learning, and building.
 
 ---
 
-## Contact me 
-vivekd2305@gmail.com
+## Contact me here👇
 
-Email: your-email-here
+Email: vivekd2305@gmail.com
 
